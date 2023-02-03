@@ -2,6 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on a lot of stuff
+- 💻 Find out more about me at https://calvinle360.github.io/
 - 📫 How to reach me: calvinle360@gmail.com
 
 <!---
